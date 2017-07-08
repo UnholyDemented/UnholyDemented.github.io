@@ -1,0 +1,172 @@
+@charset "UTF-8";
+/*!
+ *
+ * bttn.css - https://ganapativs.github.io/bttn.css
+ * Version - 0.2.4
+ * Demo: https://bttn.surge.sh
+ *
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2016 Ganapati V S (@ganapativs)
+ *
+ */
+/* standalone - .bttn-stretch */
+.bttn-default {
+  color: #fff !important;
+}
+.bttn-primary,
+.bttn,
+.bttn-lg,
+.bttn-md,
+.bttn-sm,
+.bttn-xs {
+  color: #0066c0 !important;
+}
+.bttn-warning {
+  color: #feab3a !important;
+}
+.bttn-danger {
+  color: #ff5964 !important;
+}
+.bttn-success {
+  color: #28b78d !important;
+}
+.bttn-royal {
+  color: #bd2df5 !important;
+}
+.bttn,
+.bttn-lg,
+.bttn-md,
+.bttn-sm,
+.bttn-xs {
+  margin: 0 !important;
+  padding: 0 !important;
+  border-width: 0 !important;
+  border-color: transparent !important;
+  background: transparent !important;
+  font-weight: 400 !important;
+  cursor: pointer !important;
+  position: relative !important;
+}
+.bttn-lg {
+  padding: 8px 15px !important;
+  font-size: 24px !important;
+  font-family: inherit !important;
+}
+.bttn-md {
+  font-size: 20px !important;
+  font-family: inherit !important;
+  padding: 5px 12px !important;
+}
+.bttn-sm {
+  padding: 4px 10px !important;
+  font-size: 16px !important;
+  font-family: inherit !important;
+}
+.bttn-xs {
+  padding: 3px 8px !important;
+  font-size: 12px !important;
+  font-family: inherit !important;
+}
+.bttn-stretch {
+  margin: 0 !important;
+  padding: 0 !important;
+  border-width: 0 !important;
+  border-color: transparent !important;
+  background: transparent !important;
+  font-weight: 400 !important;
+  cursor: pointer !important;
+  position: relative !important;
+  font-size: 20px !important;
+  font-family: inherit !important;
+  padding: 5px 12px !important;
+  overflow: hidden !important;
+  border-width: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  color: #fff !important;
+  letter-spacing: 0 !important;
+  -webkit-transition: all 0.2s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  transition: all 0.2s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+}
+.bttn-stretch:after,
+.bttn-stretch:before {
+  position: absolute !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 1px !important;
+  background: currentColor !important;
+  content: '' !important;
+  opacity: 0.65 !important;
+  -webkit-transition: all 0.2s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  transition: all 0.2s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  -webkit-transform: scaleX(0) !important;
+          transform: scaleX(0) !important;
+}
+.bttn-stretch:after {
+  top: 0 !important;
+}
+.bttn-stretch:before {
+  bottom: 0 !important;
+}
+.bttn-stretch:hover,
+.bttn-stretch:focus {
+  letter-spacing: 2px !important;
+  opacity: 0.9 !important;
+  -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+}
+.bttn-stretch:hover:after,
+.bttn-stretch:focus:after {
+  opacity: 1 !important;
+  -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  -webkit-transform: scaleX(1) !important;
+          transform: scaleX(1) !important;
+}
+.bttn-stretch:hover:before,
+.bttn-stretch:focus:before {
+  opacity: 1 !important;
+  -webkit-transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  transition: all 0.3s cubic-bezier(0.02, 0.01, 0.47, 1) !important;
+  -webkit-transform: scaleX(1) !important;
+          transform: scaleX(1) !important;
+}
+.bttn-stretch.bttn-xs {
+  padding: 3px 8px !important;
+  font-size: 12px !important;
+  font-family: inherit !important;
+}
+.bttn-stretch.bttn-sm {
+  padding: 4px 10px !important;
+  font-size: 16px !important;
+  font-family: inherit !important;
+}
+.bttn-stretch.bttn-md {
+  font-size: 20px !important;
+  font-family: inherit !important;
+  padding: 5px 12px !important;
+}
+.bttn-stretch.bttn-lg {
+  padding: 8px 15px !important;
+  font-size: 24px !important;
+  font-family: inherit !important;
+}
+.bttn-stretch.bttn-default {
+  color: #fff !important;
+}
+.bttn-stretch.bttn-primary {
+  color: #0066c0 !important;
+}
+.bttn-stretch.bttn-warning {
+  color: #feab3a !important;
+}
+.bttn-stretch.bttn-danger {
+  color: #ff5964 !important;
+}
+.bttn-stretch.bttn-success {
+  color: #28b78d !important;
+}
+.bttn-stretch.bttn-royal {
+  color: #bd2df5 !important;
+}

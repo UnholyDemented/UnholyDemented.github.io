@@ -1,0 +1,11 @@
+﻿.ms-property-container{float:left;}
+.ms-comment{color:#CCC;font-style:italic;}
+.ms_more_info{ border: 1px solid #E6DB55; background-color: #FFFFE0; padding: 10px; margin: 10px 0; display:none; }
+.ms-section-title,
+.ms-chart-title{ font-size: 18px; font-weight: bold;margin:10px 0;}
+.ms-chart-legend{float:left; padding:10px; background:#FFFFFF; border: 1px solid #dfdfdf; }
+.ms-legend-color{height:16px;width:20px;float:left;margin-right:10px;}
+.ms-legend-text{float:left;clear:right;}
+.ms-paypal-data{ border: 1px solid #EEEEEE; padding: 0 10px 10px 10px; margin: 10px 0; }
+#ms_layout_thumbnail img{ margin-top: 10px; }
+.music-store-error-mssg{ border: 1px solid #FF0000; color: #FF0000; text-align:center; width:100%; }

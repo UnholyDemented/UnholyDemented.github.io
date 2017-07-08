@@ -1,0 +1,149 @@
+<div class="music-store-song">
+	<div>
+		<div class="left-column single">
+			<!-- SONG COVER -->
+			<tpl ifset="song.cover">
+			<div class="song-cover single">
+				<img src="{song.cover}">
+			</div>
+			</tpl ifset="song.cover">
+			
+			<!-- SONG DEMO -->
+			<tpl ifset="song.demo">
+				<div class="ms-player single">
+				{song.demo}	
+				</div>
+			</tpl ifset="song.demo">
+		</div>		
+		
+		<div class="right-column single">
+			
+			<!-- SONG TITLE -->
+			<tpl ifset="song.title">
+				<div class="song-title single">
+				{song.title}
+				
+				<!-- SONG PRICE -->
+					<div style="display:inline-block;">
+					<tpl ifset="song.price">
+						<span class="song-price single">
+							{song.price}
+						</span>
+					</tpl ifset="song.price">
+					</div>
+				</div>
+			</tpl ifset="song.title">
+			
+			<!-- SONG ARTIST -->
+			<tpl ifset="song.has_artists">
+				<div class="song-artist">
+					<ul>
+					<tpl loop="artists">
+						<li><span class="arrow">›</span>{artists.data}</li>
+					</tpl loop="artists">	
+					</ul>
+				</div>
+			</tpl ifset="song.has_artists">
+			
+			<!-- SONG GENRE -->
+			<tpl ifset="song.has_genres">
+				<div class="song-genre">
+					<span class="label">{song.genres_label}: </span>
+					<ul>
+					<tpl loop="genres">
+						<li><span class="arrow">›</span>{genres.data}</li>
+					</tpl loop="genres">	
+					</ul>
+				</div>
+			</tpl ifset="song.has_genres">
+			
+			<!-- SONG ALBUM -->
+			<tpl ifset="song.has_albums">
+				<div class="song-album">
+					<span class="label">{song.albums_label}: </span>
+					<ul>
+					<tpl loop="albums">
+						<li><span class="arrow">›</span>{albums.data}</li>
+					</tpl loop="albums">	
+					</ul>
+				</div>
+			</tpl ifset="song.has_albums">
+			
+			<!-- SONG TIME -->
+			<tpl ifset="song.time">
+			<span class="label">{song.duration_label}: </span>
+			<b>{song.time}</b>
+			</tpl ifset="song.time">
+			
+			<!-- SONG YEAR -->
+			<tpl ifset="song.year">
+			<span class="label">{song.year_label}: </span>
+			<b>{song.year}</b>
+			</tpl ifset="song.year">
+			
+			<!-- SONG SALES BUTTONS -->
+			<tpl ifset="song.salesbutton">
+				<div class="song-payment-buttons">
+				{song.salesbutton}
+				</div>
+			</tpl ifset="song.salesbutton">
+			
+			<!-- MUSIC STORE LINK -->
+			<tpl ifset="song.store_page">
+				<div class="music-store-link">
+					<a href="{song.store_page}">{song.store_page_label}</a>
+				</div>
+			</tpl ifset="song.store_page">
+            
+            <!-- SOCIAL BUTTONS -->
+            <tpl ifset="song.social">
+				<tpl ifset="song.facebook_app_id">
+					<div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId={song.facebook_app_id}";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+					<div><div class="fb-like" data-href="{song.social}" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" style="overflow:hidden;"></div></div>
+                </tpl ifset="song.facebook_app_id">
+				
+                <div><div class="g-plus" data-action="share" data-annotation="bubble"></div></div>
+                <script type="text/javascript">
+                  (function() {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/plusone.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                  })();
+                </script>
+                
+                <div><a href="https://twitter.com/share" class="twitter-share-button" data-url="{song.social}">Tweet</a></div>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <div class="clear"></div>
+            </tpl ifset="song.social">
+            
+		</div>
+	</div>	
+	<div class="clear"></div>
+	<div class="bottom-content">
+        <!-- SONG DESCRIPTION -->
+		<tpl ifset="song.description">
+		<ul class="music-store-tabs">
+			<li class="active-tab">{song.description_label}</li>
+		</ul>
+		<div class="music-store-tabs-container active-tab">
+		    <div class="song-description">
+            {song.description}
+            </div>
+		</div> <!-- End first tab container -->
+        </tpl ifset="song.description">
+        
+        <!-- SONG MORE INFO -->
+        <tpl ifset="song.info">
+        <div class="song-info">
+            <a href="{song.info}" target="_blank">{song.more_label}[+]</a>
+        </div>
+        </tpl ifset="song.info">
+	</div>
+</div>

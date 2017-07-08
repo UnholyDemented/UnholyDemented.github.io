@@ -1,0 +1,1331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MS_TEXT_DOMAIN\n"
+"POT-Creation-Date: 2017-05-01 21:02+0200\n"
+"PO-Revision-Date: 2017-05-01 21:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: CodePeople\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ms-addons/affiliateroyale.addon.php:72
+msgid "Affiliate Royale Integration"
+msgstr ""
+
+#: ../ms-addons/affiliateroyale.addon.php:74
+msgid ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the Music Store, tick the checkbox:"
+msgstr ""
+
+#: ../ms-core/ms-download.php:183
+msgid "The store is processing the purchase. You will be redirected in"
+msgstr "Магазин обработки покупку. Вы будете перенаправлены на"
+
+#: ../ms-core/ms-download.php:197
+msgid "Please, try again in 3 minutes."
+msgstr ""
+
+#: ../ms-core/ms-download.php:235
+msgid "The purchase ID is incorrect, please, try again in 3 minutes."
+msgstr ""
+
+#: ../ms-core/ms-download.php:314
+msgid "The product is no longer available in our Music Store"
+msgstr "Продукт больше не доступен в нашем музыкальном магазине"
+
+#: ../ms-core/ms-download.php:319
+msgid "The product is not valid"
+msgstr "Продукт не является действительным"
+
+#: ../ms-core/ms-download.php:338
+msgid "The list of purchased products is empty"
+msgstr "Перечень закупаемых товаров пуст"
+
+#: ../ms-core/ms-ipn.php:78
+msgid "License for regular purchases"
+msgstr ""
+
+#: ../ms-core/ms-song.php:135
+msgid "Album(s)"
+msgstr "Альбом (ы) »"
+
+#: ../ms-core/ms-song.php:136
+msgid "Genre(s)"
+msgstr "Жанр (ы )"
+
+#: ../ms-core/ms-song.php:137
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: ../ms-core/ms-song.php:138
+msgid "Year"
+msgstr "Год"
+
+#: ../ms-core/ms-song.php:139
+msgid "Description"
+msgstr "Описание"
+
+#: ../ms-core/ms-song.php:140
+msgid "More Info"
+msgstr "Дополнительная информация"
+
+#: ../ms-core/ms-song.php:141
+msgid "Go to the store page"
+msgstr "Перейти на страницу магазина"
+
+#: ../ms-core/ms-song.php:142
+msgid "Get back"
+msgstr "Вернись"
+
+#: ../ms-core/ms-song.php:143
+msgid "popularity"
+msgstr "Популярность"
+
+#: ../ms-core/ms-song.php:144 ../music-store.php:2293
+msgid "Price"
+msgstr "Цена"
+
+#: ../ms-core/ms-song.php:200
+#, fuzzy
+#| msgid "Download link"
+msgid "Download"
+msgstr "Ссылка для скачивания"
+
+#: ../ms-core/ms-song.php:200
+msgid "License"
+msgstr ""
+
+#: ../ms-core/ms-song.php:295
+msgid "Sales price:"
+msgstr "Цена продажи :"
+
+#: ../ms-core/ms-song.php:309
+#, fuzzy
+#| msgid "Sales price:"
+msgid "Sales price (Exclusively):"
+msgstr "Цена продажи :"
+
+#: ../ms-core/ms-song.php:319
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:325
+msgid "Sell as a single:"
+msgstr "Продай какодного :"
+
+#: ../ms-core/ms-song.php:333
+msgid "Audio file for sale:"
+msgstr "Звуковой файл для продажи:"
+
+#: ../ms-core/ms-song.php:336 ../ms-core/ms-song.php:344
+#: ../ms-core/ms-song.php:407
+msgid "File path/URL"
+msgstr "Путь к файлу / URL"
+
+#: ../ms-core/ms-song.php:336 ../ms-core/ms-song.php:344
+#: ../ms-core/ms-song.php:407
+msgid "Upload a file"
+msgstr "Загрузить файл"
+
+#: ../ms-core/ms-song.php:341
+msgid "Audio file for demo:"
+msgstr "Звуковой файл для демо :"
+
+#: ../ms-core/ms-song.php:346
+msgid "Protect the file"
+msgstr "Защитить файл"
+
+#: ../ms-core/ms-song.php:346
+msgid ""
+"The protection of audio files is only available for commercial version of "
+"plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:347
+msgid ""
+"For MIDI files, the protection option is not available, the audio file would "
+"be played completely."
+msgstr ""
+
+#: ../ms-core/ms-song.php:352
+msgid "Artist:"
+msgstr "Исполнитель:"
+
+#: ../ms-core/ms-song.php:362
+msgid "Select an Artist"
+msgstr "Выберите исполнителя"
+
+#: ../ms-core/ms-song.php:370
+msgid "Enter a new artist"
+msgstr "Введите новый группа"
+
+#: ../ms-core/ms-song.php:371
+msgid "Add artist"
+msgstr "Добавить группа"
+
+#: ../ms-core/ms-song.php:372
+msgid "Select an Artist from the list or enter new one"
+msgstr "Выберите исполнителя из списка или введите новый"
+
+#: ../ms-core/ms-song.php:378
+msgid "Album including the song:"
+msgstr "Альбом включая песню:"
+
+#: ../ms-core/ms-song.php:387
+msgid "Select an Album"
+msgstr "Выберите альбом"
+
+#: ../ms-core/ms-song.php:396
+msgid "Enter a new album"
+msgstr "Введите новый альбом"
+
+#: ../ms-core/ms-song.php:397
+msgid "Add album"
+msgstr "Добавить альбом"
+
+#: ../ms-core/ms-song.php:398
+msgid "Select an Album from the list or enter new one"
+msgstr "Выберите альбом из списка или введите новый"
+
+#: ../ms-core/ms-song.php:404
+msgid "Cover:"
+msgstr "Обложка :"
+
+#: ../ms-core/ms-song.php:412
+msgid "Duration:"
+msgstr "Продолжительность:"
+
+#: ../ms-core/ms-song.php:415
+msgid "For example 00:00"
+msgstr "Например 00:00"
+
+#: ../ms-core/ms-song.php:420
+msgid "Publication Year:"
+msgstr "Год публикации :"
+
+#: ../ms-core/ms-song.php:423
+msgid "For example 1999"
+msgstr "Например 1999"
+
+#: ../ms-core/ms-song.php:428
+msgid "Additional information:"
+msgstr "Дополнительная информация :"
+
+#: ../ms-core/ms-song.php:431
+msgid "Page URL"
+msgstr "URL страницы"
+
+#: ../ms-core/ms-song.php:431
+msgid "Different webpage with additional information"
+msgstr "Различные веб-страницы с дополнительной информацией"
+
+#: ../ms-core/ms-song.php:451 ../music-store.php:1381
+msgid "The discounts are only available for commercial version of plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:452 ../music-store.php:1383
+msgid "Scheduled Discounts"
+msgstr "Запланированные скидки»"
+
+#: ../ms-core/ms-song.php:455
+msgid "New price in "
+msgstr "Новая цена на"
+
+#: ../ms-core/ms-song.php:456 ../music-store.php:1389
+msgid "Valid from dd/mm/yyyy"
+msgstr "Действительно с DD / MM / YYYY"
+
+#: ../ms-core/ms-song.php:457 ../music-store.php:1390
+msgid "Valid to dd/mm/yyyy"
+msgstr "Срок действия дд / мм / гггг"
+
+#: ../ms-core/ms-song.php:458 ../ms-core/ms-song.php:477
+#: ../music-store.php:1391 ../music-store.php:1414
+msgid "Promotional text"
+msgstr "Рекламный текст"
+
+#: ../ms-core/ms-song.php:459 ../music-store.php:1392
+msgid "Status"
+msgstr "Статус"
+
+#: ../ms-core/ms-song.php:465
+msgid "New price (*)"
+msgstr "Новая цена (* )"
+
+#: ../ms-core/ms-song.php:469 ../music-store.php:1406
+msgid "Valid from (dd/mm/yyyy)"
+msgstr "Действительно с (дд / мм / гггг)"
+
+#: ../ms-core/ms-song.php:473 ../music-store.php:1410
+msgid "Valid to (dd/mm/yyyy)"
+msgstr "Срок действия (дд / мм / гггг)"
+
+#: ../ms-core/ms-song.php:480 ../music-store.php:1417
+msgid "Add/Update Discount"
+msgstr "Добавить / обновить Скидка"
+
+#: ../ms-core/ms-song.php:512
+msgid "Invalid file type for selling."
+msgstr ""
+
+#: ../ms-core/ms-song.php:517
+#, fuzzy
+#| msgid "Audio file for demo:"
+msgid "Invalid file type for demo."
+msgstr "Звуковой файл для демо :"
+
+#: ../ms-core/ms-song.php:522
+msgid "Invalid file type for cover."
+msgstr ""
+
+#: ../ms-core/ms-song.php:640
+msgid "Song Id"
+msgstr "Песня Id"
+
+#: ../ms-core/ms-song.php:641
+msgid "Song Name"
+msgstr "Название песни"
+
+#: ../ms-core/ms-song.php:642 ../music-store.php:756 ../music-store.php:758
+#: ../music-store.php:766 ../music-store.php:876
+msgid "Artists"
+msgstr "Художники"
+
+#: ../ms-core/ms-song.php:643 ../music-store.php:783 ../music-store.php:785
+#: ../music-store.php:793 ../music-store.php:877
+msgid "Albums"
+msgstr "Альбомы"
+
+#: ../ms-core/ms-song.php:644 ../music-store.php:729 ../music-store.php:731
+#: ../music-store.php:739 ../music-store.php:875
+msgid "Genres"
+msgstr "Жанры"
+
+#: ../ms-core/ms-song.php:645
+msgid "Plays"
+msgstr "Пьесы"
+
+#: ../ms-core/ms-song.php:646
+msgid "Purchases"
+msgstr "Закупки"
+
+#: ../ms-core/ms-song.php:647 ../music-store.php:1552 ../music-store.php:2290
+msgid "Date"
+msgstr "Дата"
+
+#: ../music-store.php:159
+msgid "Product distributed for free"
+msgstr ""
+
+#: ../music-store.php:367
+msgid "Download Links:"
+msgstr "Скачать:"
+
+#: ../music-store.php:395
+msgid "Type the email address used to purchase our products"
+msgstr ""
+"Введите адрес электронной почты , используемый для приобретения наших "
+"продуктов"
+
+#: ../music-store.php:453
+msgid "Song's data"
+msgstr "Данные Сонг"
+
+#: ../music-store.php:456
+msgid "Programming Discounts"
+msgstr "Программирование скидки»"
+
+#: ../music-store.php:476
+msgid "Help"
+msgstr ""
+
+#: ../music-store.php:478
+msgid "Request custom changes"
+msgstr "Запрос пользовательские изменения"
+
+#: ../music-store.php:480
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../music-store.php:669
+msgid "This is where you can add new song to your music store."
+msgstr "Это где вы можете добавить новую песню к музыкальному магазину\"."
+
+#: ../music-store.php:678
+msgid "Songs"
+msgstr "Песни"
+
+#: ../music-store.php:679
+msgid "Song"
+msgstr "Песня"
+
+#: ../music-store.php:680
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: ../music-store.php:681
+msgid "Add New Song"
+msgstr "Добавить песню"
+
+#: ../music-store.php:682
+msgid "Edit Song"
+msgstr "Редактировать Песня"
+
+#: ../music-store.php:683
+msgid "New Song"
+msgstr "Новая песня"
+
+#: ../music-store.php:684
+msgid "View Song"
+msgstr "Посмотреть Песня"
+
+#: ../music-store.php:685
+msgid "Search Songs"
+msgstr "Поиск песни"
+
+#: ../music-store.php:686
+msgid "No songs found"
+msgstr "Нет песни не найдено"
+
+#: ../music-store.php:687
+msgid "No songs found in Trash"
+msgstr "Нет песни не найдено в корзину"
+
+#: ../music-store.php:688
+msgid "Songs for Sale"
+msgstr "Песни для продажи"
+
+#: ../music-store.php:732
+msgid "Genre"
+msgstr "Жанр"
+
+#: ../music-store.php:733
+msgid "Search Genres"
+msgstr "Поиск Жанры"
+
+#: ../music-store.php:734
+msgid "All Genres"
+msgstr "Все жанры"
+
+#: ../music-store.php:735
+msgid "Edit Genre"
+msgstr "Редактировать Жанр"
+
+#: ../music-store.php:736
+msgid "Update Genre"
+msgstr "Обновление Жанр"
+
+#: ../music-store.php:737
+msgid "Add New Genre"
+msgstr "Добавить новый жанр"
+
+#: ../music-store.php:738
+msgid "New Genre Name"
+msgstr "Новый жанр Name"
+
+#: ../music-store.php:759
+msgid "Artist"
+msgstr "Исполнитель"
+
+#: ../music-store.php:760
+msgid "Search Artists"
+msgstr "Поиск Художники »"
+
+#: ../music-store.php:761
+msgid "All Artists"
+msgstr "Все художники"
+
+#: ../music-store.php:762
+msgid "Edit Artist"
+msgstr "Редактировать нравится"
+
+#: ../music-store.php:763
+msgid "Update Artist"
+msgstr "Обновление нравится"
+
+#: ../music-store.php:764
+msgid "Add New Artist"
+msgstr "Добавить новый артист"
+
+#: ../music-store.php:765
+msgid "New Artist Name"
+msgstr "Новый имя исполнителя"
+
+#: ../music-store.php:786
+msgid "Album"
+msgstr "Альбом"
+
+#: ../music-store.php:787
+msgid "Search Albums"
+msgstr "Искать Альбомы"
+
+#: ../music-store.php:788
+msgid "All Albums"
+msgstr "Все альбомы"
+
+#: ../music-store.php:789
+msgid "Edit Album"
+msgstr "Редактировать альбом"
+
+#: ../music-store.php:790
+msgid "Update Album"
+msgstr "Обновить альбом"
+
+#: ../music-store.php:791
+msgid "Add New Album"
+msgstr "Добавить новый альбом"
+
+#: ../music-store.php:792
+msgid "New Album Name"
+msgstr "Имя нового альбома"
+
+#: ../music-store.php:875
+msgid "Set Genres"
+msgstr "Установить Жанры"
+
+#: ../music-store.php:876
+msgid "Set Artists"
+msgstr "Установить художники"
+
+#: ../music-store.php:877
+msgid "Set Albums"
+msgstr "Установить Альбомы"
+
+#: ../music-store.php:882 ../music-store.php:907
+msgid "Music Store Settings"
+msgstr "Настройка музыки Магазин"
+
+#: ../music-store.php:882
+msgid "Store Settings"
+msgstr "Настройки Магазин"
+
+#: ../music-store.php:885
+msgid "Music Store Sales Report"
+msgstr "Музыкальный магазин Sales Report"
+
+#: ../music-store.php:885 ../music-store.php:907
+msgid "Sales Report"
+msgstr "Отчет по продажам"
+
+#: ../music-store.php:888 ../music-store.php:907
+#, fuzzy
+#| msgid "Songs for Sale"
+msgid "Songs Importer"
+msgstr "Песни для продажи"
+
+#: ../music-store.php:891
+msgid "Online Help"
+msgstr ""
+
+#: ../music-store.php:907
+msgid "Music Store Songs"
+msgstr "Музыкальный магазин Песни"
+
+#: ../music-store.php:907
+msgid "Music Store Collections"
+msgstr "Музыкальный магазин коллекции"
+
+#: ../music-store.php:1045
+msgid "Settings Updated"
+msgstr "Настройки Обновлено"
+
+#: ../music-store.php:1069
+msgid "Store page config"
+msgstr "Магазин страницы конфигурации"
+
+#: ../music-store.php:1073
+msgid "URL of store page"
+msgstr "Адрес странице магазина"
+
+#: ../music-store.php:1077
+msgid "Set the URL of page where the music store was inserted"
+msgstr "Установите URL страницы , гдемузыкальный магазин был вставлен"
+
+#: ../music-store.php:1081
+msgid "Allow searching by taxonomies"
+msgstr ""
+
+#: ../music-store.php:1087
+#, fuzzy
+#| msgid "Allow to filter by type"
+msgid "Allow filtering by type"
+msgstr "Позвольте фильтрацию по типу"
+
+#: ../music-store.php:1090
+msgid ""
+"The option is not available because the free version allows to create only "
+"songs"
+msgstr ""
+
+#: ../music-store.php:1094
+#, fuzzy
+#| msgid "Allow to filter by genre"
+msgid "Allow filtering by genre"
+msgstr "Разрешить для фильтрации по жанру"
+
+#: ../music-store.php:1098
+#, fuzzy
+#| msgid "Allow to filter by artist"
+msgid "Allow filtering by artist"
+msgstr "Разрешить фильтрацию по художника"
+
+#: ../music-store.php:1102
+#, fuzzy
+#| msgid "Allow to filter by album"
+msgid "Allow filtering by album"
+msgstr "Разрешить фильтровать по альбому"
+
+#: ../music-store.php:1106
+msgid "Allow multiple pages"
+msgstr "Разрешить несколько страниц"
+
+#: ../music-store.php:1110
+msgid "Items per page"
+msgstr "Продуктов на странице"
+
+#: ../music-store.php:1114
+msgid "Use friendly URLs on products"
+msgstr ""
+
+#: ../music-store.php:1118
+msgid "Store layout"
+msgstr "Расположение магазина"
+
+#: ../music-store.php:1121
+msgid "Default layout"
+msgstr "По умолчанию расположение"
+
+#: ../music-store.php:1140
+msgid "Player style"
+msgstr "Стиль игрока"
+
+#: ../music-store.php:1145
+msgid ""
+"The free version of the plugin includes only the classic design for the "
+"music player"
+msgstr ""
+
+#: ../music-store.php:1158
+msgid ""
+"For MIDI audio files only the play/pause button will be displayed on players."
+msgstr ""
+
+#: ../music-store.php:1162
+#, fuzzy
+#| msgid "Plays"
+msgid "Play all"
+msgstr "Пьесы"
+
+#: ../music-store.php:1164
+msgid "Play all songs in the webpage, one after the other"
+msgstr ""
+
+#: ../music-store.php:1168
+msgid "Percent of audio used for protected playbacks"
+msgstr "Процент аудио используется для защищенных воспроизведений"
+
+#: ../music-store.php:1171
+#, fuzzy
+#| msgid ""
+#| "To prevent unauthorized copying of audio files, the files will be "
+#| "partially accessible."
+msgid ""
+"To prevent unauthorized copying of audio files, the files will be partially "
+"accessible"
+msgstr ""
+"Для предотвращения несанкционированного копирования звуковых файлов , файлы "
+"будут частично доступны ."
+
+#: ../music-store.php:1173
+msgid ""
+"The commercial version of plugin generates a truncated version of the audio "
+"file for selling to be used as demo"
+msgstr ""
+
+#: ../music-store.php:1179
+msgid "Explain text for protected playbacks"
+msgstr "Объясните текст для охраняемых воспроизведений"
+
+#: ../music-store.php:1182
+#, fuzzy
+#| msgid ""
+#| "The text will be shown below of the music player when secure playback is "
+#| "checked"
+msgid ""
+"The text will be shown below of the music player when secure playback is "
+"checked."
+msgstr ""
+"Текст будет показано ниже музыкального плеера , когда защищенное "
+"воспроизведение проверяется"
+
+#: ../music-store.php:1185
+msgid ""
+"The secure playback is available only in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1191
+msgid "Share in social networks"
+msgstr "Доля в социальных сетях"
+
+#: ../music-store.php:1194
+msgid ""
+"The option enables the buttons for share the pages of songs and collections "
+"in social networks"
+msgstr ""
+"Опция позволяет кнопок на долю страницах песен и коллекции в социальных сетях"
+
+#: ../music-store.php:1199
+msgid "Facebook app id for sharing in Facebook"
+msgstr ""
+
+#: ../music-store.php:1202
+msgid ""
+"Click the link to generate the Facebook App and get its ID: <a target="
+"\"_blank\" href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a>"
+msgstr ""
+
+#: ../music-store.php:1212
+msgid "Paypal Payment Configuration"
+msgstr "Paypal Конфигурация Оплата"
+
+#: ../music-store.php:1217
+msgid "Enable Paypal Payments?"
+msgstr "Включить Paypal платежей?"
+
+#: ../music-store.php:1222
+msgid "Use Paypal Sandbox"
+msgstr ""
+
+#: ../music-store.php:1227
+msgid "Paypal email"
+msgstr "Paypal по электронной почте"
+
+#: ../music-store.php:1239 ../music-store.php:1552
+msgid "Currency"
+msgstr "Валюта»"
+
+#: ../music-store.php:1244
+msgid "Currency Symbol"
+msgstr "Символ валюты"
+
+#: ../music-store.php:1249
+msgid "Paypal language"
+msgstr "Paypal язык"
+
+#: ../music-store.php:1254
+msgid "Paypal button"
+msgstr ""
+
+#: ../music-store.php:1259
+msgid "or use a shopping cart"
+msgstr "или использовать корзину"
+
+#: ../music-store.php:1264 ../music-store.php:1270
+msgid "The shopping cart is available only in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1269
+msgid "Hide the shopping cart icon from the store and products pages?"
+msgstr ""
+
+#: ../music-store.php:1274
+msgid "Pay what you want"
+msgstr ""
+
+#: ../music-store.php:1275
+msgid ""
+"The prices of products are hidden in the public webpage and in their places "
+"are displayed input boxes to let the buyers pay the amount they consider "
+"adequate. If the \"Pay what you want\" option is enabled then the exclusive "
+"prices are not taken into account. The amounts entered by the buyers are "
+"compared with the base price of the products and if the values are under the "
+"base prices then the Music Store displays the text entered in the \"price "
+"under minimum\" message."
+msgstr ""
+
+#: ../music-store.php:1275 ../music-store.php:1280 ../music-store.php:1285
+msgid ""
+"The option \"Pay what you want\" is available only in the commercial version "
+"of plugin"
+msgstr ""
+
+#: ../music-store.php:1279
+msgid "Label of price box"
+msgstr ""
+
+#: ../music-store.php:1280
+msgid ""
+"Text to display above the price box if the \"Pay what you want\" option is "
+"ticked."
+msgstr ""
+
+#: ../music-store.php:1284
+msgid "Price under minimum message"
+msgstr ""
+
+#: ../music-store.php:1285
+msgid ""
+"Text to display if the \"Pay what you want\" option is ticked, and the "
+"amount entered by the buyer is under the base price defined in the product."
+msgstr ""
+
+#: ../music-store.php:1289 ../music-store.php:1294
+msgid "Download link valid for"
+msgstr "Скачать ссылку , действительный в течение"
+
+#: ../music-store.php:1290 ../music-store.php:1295
+msgid "day(s)"
+msgstr "день ( ы)»"
+
+#: ../music-store.php:1299
+msgid "Number of downloads allowed by purchase"
+msgstr "Количество скачиваний разрешено приобретение"
+
+#: ../music-store.php:1304
+msgid "Increase the download page security"
+msgstr "Увеличение безопасности страницу загрузки"
+
+#: ../music-store.php:1305
+msgid ""
+"The customers must enter the email address used in the product's purchasing "
+"to access to the download link. The Music Store verifies the customer's "
+"data, from the file link too."
+msgstr ""
+"Клиенты должны ввести адрес электронной почты, используемый в покупке "
+"продукта , чтобы получить доступ к ссылке .Музыкальный магазин проверяет "
+"данные клиента, по ссылке файла тоже."
+
+#: ../music-store.php:1308
+msgid "Pack all purchased audio files as a single ZIP file"
+msgstr "Упаковать все приобретенные аудио файлы в виде одного файла ZIP"
+
+#: ../music-store.php:1310
+msgid ""
+"Downloading all purchased products, packaged in a same zipped file, is only "
+"available in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1313
+msgid ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+msgstr ""
+"Ваш сервер не способен создавать сжатые файлы динамически. Пожалуйста , "
+"свяжитесь с вашим хостинг-провайдером для включения ZipArchive в сценарии PHP"
+
+#: ../music-store.php:1341
+msgid "Restrict the access to registered users only"
+msgstr ""
+
+#: ../music-store.php:1345
+msgid "Display the free download links only for registered users"
+msgstr ""
+
+#: ../music-store.php:1347
+msgid ""
+"Include the \"Buy Now\" or \"Shopping Cart\" buttons only for registered "
+"users"
+msgstr ""
+
+#: ../music-store.php:1353
+msgid "Licenses"
+msgstr ""
+
+#: ../music-store.php:1356
+msgid ""
+"Enter the URL to the webpage, or file, with the license for products "
+"downloaded for free."
+msgstr ""
+
+#: ../music-store.php:1358
+msgid ""
+"Enter the URL to the webpage, or file, with the license for regular "
+"purchases."
+msgstr ""
+
+#: ../music-store.php:1360
+msgid ""
+"Enter the URL to the webpage, or file, with the license for exclusive "
+"purchases."
+msgstr ""
+
+#: ../music-store.php:1362
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin, similar to the license"
+msgstr ""
+
+#: ../music-store.php:1365
+#, fuzzy
+#| msgid "Notes"
+msgid "Note:"
+msgstr "Записки"
+
+#: ../music-store.php:1368
+msgid ""
+"The links to the corresponding licenses are sent to the buyers in the "
+"notification emails, and in the case of license for free downloads, are "
+"inserted beside the download links."
+msgstr ""
+
+#: ../music-store.php:1379
+msgid "Discount Settings"
+msgstr "Настройки скидка"
+
+#: ../music-store.php:1382
+msgid "Display discount promotions in the music store page"
+msgstr "Показать скидка акции на странице музыкального магазина"
+
+#: ../music-store.php:1387
+msgid "Percent of discount"
+msgstr "Процент скидки"
+
+#: ../music-store.php:1388
+msgid "In Sales over than ... "
+msgstr "В продажах более чем ..."
+
+#: ../music-store.php:1398
+msgid "Percent of discount (*)"
+msgstr "Процент скидки (* )"
+
+#: ../music-store.php:1402
+msgid "Valid for sales over than (*)"
+msgstr "Действительно для продаж за чем (* )"
+
+#: ../music-store.php:1424
+msgid "Notification Settings"
+msgstr "Настройки уведомлений"
+
+#: ../music-store.php:1429
+msgid "Notification \"from\" email"
+msgstr "Уведомление \" от \"по электронной почте"
+
+#: ../music-store.php:1434
+msgid "Send notification to email"
+msgstr "Отправить уведомление по электронной почте"
+
+#: ../music-store.php:1439
+msgid "Email subject confirmation to user"
+msgstr "Тема электронного письма подтверждение пользователем"
+
+#: ../music-store.php:1444
+msgid "Email confirmation to user"
+msgstr "По электронной почте подтверждение пользователем"
+
+#: ../music-store.php:1449
+msgid "Email subject notification to admin"
+msgstr "Электронная почта предмет уведомления в админ"
+
+#: ../music-store.php:1454
+msgid "Email notification to admin"
+msgstr "Уведомление по электронной почте администратору"
+
+#: ../music-store.php:1464
+msgid "Update Settings"
+msgstr "Параметры обновления"
+
+#: ../music-store.php:1486
+msgid "PayPal data"
+msgstr "Данные PayPal"
+
+#: ../music-store.php:1552
+msgid "Product"
+msgstr "Продукт"
+
+#: ../music-store.php:1552
+msgid "Buyer"
+msgstr "Покупатель"
+
+#: ../music-store.php:1552
+msgid "Amount"
+msgstr "Сумма"
+
+#: ../music-store.php:1552
+msgid "Download link"
+msgstr "Ссылка для скачивания"
+
+#: ../music-store.php:1616
+msgid "Filter the sales reports"
+msgstr "Фильтрация отчетов о продажах"
+
+#: ../music-store.php:1619
+msgid "Filter by date"
+msgstr "Фильтр по дате"
+
+#: ../music-store.php:1622
+msgid "January"
+msgstr "Январь"
+
+#: ../music-store.php:1623
+msgid "February"
+msgstr "Февраль"
+
+#: ../music-store.php:1624
+msgid "March"
+msgstr "Март"
+
+#: ../music-store.php:1625
+msgid "April"
+msgstr "Апрель"
+
+#: ../music-store.php:1626
+msgid "May"
+msgstr "Май"
+
+#: ../music-store.php:1627
+msgid "June"
+msgstr "Июнь"
+
+#: ../music-store.php:1628
+msgid "July"
+msgstr "Июль"
+
+#: ../music-store.php:1629
+msgid "August"
+msgstr "Август"
+
+#: ../music-store.php:1630
+msgid "September"
+msgstr "Сентябрь"
+
+#: ../music-store.php:1631
+msgid "October"
+msgstr "Октябрь"
+
+#: ../music-store.php:1632
+msgid "November"
+msgstr "Ноябрь"
+
+#: ../music-store.php:1633
+msgid "December"
+msgstr "Декабрь"
+
+#: ../music-store.php:1636
+msgid "Buyer: "
+msgstr "Покупатель :"
+
+#: ../music-store.php:1637
+msgid "From: "
+msgstr "От:"
+
+#: ../music-store.php:1650
+msgid "To: "
+msgstr "Кому:"
+
+#: ../music-store.php:1662
+msgid "Search"
+msgstr "Поиск"
+
+#: ../music-store.php:1666
+msgid "Grouping the sales"
+msgstr "Группировка продажи"
+
+#: ../music-store.php:1667
+msgid "By: "
+msgstr "По :"
+
+#: ../music-store.php:1678
+msgid "Display"
+msgstr "Дисплей"
+
+#: ../music-store.php:1679
+msgid "Sales"
+msgstr "Продажи"
+
+#: ../music-store.php:1680
+msgid "Amount of sales"
+msgstr "Количество продаж"
+
+#: ../music-store.php:1681
+msgid "Daily average"
+msgstr "Среднесуточная"
+
+#: ../music-store.php:1688
+msgid "Store sales report"
+msgstr "Отчет по продажам магазина"
+
+#: ../music-store.php:1695
+msgid "Sales by country"
+msgstr "Продажи по стране"
+
+#: ../music-store.php:1696
+msgid "Sales by currency"
+msgstr "Продажи в разбивке по валютам"
+
+#: ../music-store.php:1697
+msgid "Sales by product"
+msgstr "Продажи по видам продукции"
+
+#: ../music-store.php:1698
+#, fuzzy
+#| msgid "Download Here"
+msgid "Downloads free products"
+msgstr "Скачать здесь"
+
+#: ../music-store.php:1708
+msgid "Products List"
+msgstr "Список продуктов"
+
+#: ../music-store.php:1710
+#, fuzzy
+#| msgid "All products"
+msgid "List all products"
+msgstr "Все продукты"
+
+#: ../music-store.php:1711
+#, fuzzy
+#| msgid "The list of purchased products is empty"
+msgid "List only the purchased products"
+msgstr "Перечень закупаемых товаров пуст"
+
+#: ../music-store.php:1712
+msgid "List only the products downloaded for free"
+msgstr ""
+
+#: ../music-store.php:1820
+msgid "There are not sales registered with those filter options"
+msgstr "Там ​​будут продаж не зарегистрированы тех опции фильтра"
+
+#: ../music-store.php:1856
+msgid "Replace"
+msgstr ""
+
+#: ../music-store.php:1945 ../music-store.php:2340
+msgid "Insert Music Store"
+msgstr "Вставить Music Store"
+
+#: ../music-store.php:1947
+msgid "Filter results by products type:"
+msgstr "Фильтр по типа продукции :"
+
+#: ../music-store.php:1947
+msgid "All types"
+msgstr "Все типы"
+
+#: ../music-store.php:1947
+msgid ""
+"Filter by product types is only available for commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1947
+msgid "Columns:"
+msgstr "Рубрики:"
+
+#: ../music-store.php:1949
+msgid "Filter results by genre:"
+msgstr "Фильтр по жанру :"
+
+#: ../music-store.php:1949 ../music-store.php:2253
+msgid "All genres"
+msgstr "Все жанры"
+
+#: ../music-store.php:1955
+msgid "-or- filter results by artist:"
+msgstr "-или- Фильтр результатов по исполнителям :"
+
+#: ../music-store.php:1955 ../music-store.php:2275
+msgid "All artists"
+msgstr "Все художники"
+
+#: ../music-store.php:1960
+msgid "-or- filter results by album:"
+msgstr "-или- Фильтр по альбому :"
+
+#: ../music-store.php:1960 ../music-store.php:2264
+msgid "All albums"
+msgstr "Все альбомы"
+
+#: ../music-store.php:2183
+msgid "of"
+msgstr ""
+
+#: ../music-store.php:2249
+msgid "Filter by: "
+msgstr "Фильтрация:"
+
+#: ../music-store.php:2288
+msgid "Order by: "
+msgstr "Сортировать по:"
+
+#: ../music-store.php:2291
+msgid "Title"
+msgstr "Название"
+
+#: ../music-store.php:2292
+msgid "Popularity"
+msgstr "Популярность"
+
+#~ msgid "Collection's data"
+#~ msgstr "Сбор данных в"
+
+#~ msgid "Collections"
+#~ msgstr "Коллекции»"
+
+#~ msgid "Collection"
+#~ msgstr "Коллекция"
+
+#~ msgid "Add New Collection"
+#~ msgstr "Добавить новую коллекцию"
+
+#~ msgid "Edit Collection"
+#~ msgstr "Редактировать коллекцию"
+
+#~ msgid "New Collection"
+#~ msgstr "Новая коллекция"
+
+#~ msgid "View Collection"
+#~ msgstr "Посмотреть коллекцию"
+
+#~ msgid "Search Collections"
+#~ msgstr "Поиск Коллекции"
+
+#~ msgid "No collections found"
+#~ msgstr "Нет коллекции не найдено"
+
+#~ msgid "No collections found in Trash"
+#~ msgstr "Нет коллекции не найдено в корзину"
+
+#~ msgid "Collections for Sale"
+#~ msgstr "Коллекции для продажи»"
+
+#~ msgid "Paypal button for instant purchases"
+#~ msgstr "Кнопка Paypal для мгновенной покупки"
+
+#~ msgid "Coupons Settings"
+#~ msgstr "Настройки Купоны"
+
+#~ msgid "Coupons List"
+#~ msgstr "Список Купоны"
+
+#~ msgid "Coupon"
+#~ msgstr "Купон"
+
+#~ msgid "Coupon (*)"
+#~ msgstr "Купонный ( * )"
+
+#~ msgid "Add/Update Coupon"
+#~ msgstr "Добавить / обновить Купон"
+
+#~ msgid "Insert a Products List"
+#~ msgstr "Вставьте список продуктов"
+
+#~ msgid "Select the type of list:"
+#~ msgstr "Выберите тип списка :"
+
+#~ msgid "Enter the number of products to show:"
+#~ msgstr "Введите количество продукции , чтобы показать :"
+
+#~ msgid "Enter the number of columns:"
+#~ msgstr "Введите количество столбцов :"
+
+#~ msgid "Insert the sales counter"
+#~ msgstr "Вставьте счетчик продаж"
+
+#~ msgid "Select the numbers design:"
+#~ msgstr "Выберите дизайн Номера :"
+
+#~ msgid "Enter minimum length of counter:"
+#~ msgstr "Введите минимальную длину счетчика:"
+
+#~ msgid "Singles"
+#~ msgstr "Singles"
+
+#~ msgid "Insert a Product"
+#~ msgstr "Вставьте продукт"
+
+#~ msgid "Enter the Song or Collection ID:"
+#~ msgstr "Введите песни или сбор ID:"
+
+#~ msgid "Only collections"
+#~ msgstr "Только коллекции"
+
+#~ msgid "Only singles"
+#~ msgstr "Только синглы"
+
+#~ msgid "items"
+#~ msgstr "позиции"
+
+#~ msgid "Our Promotions"
+#~ msgstr "Наши Акции"
+
+#~ msgid "Insert a product"
+#~ msgstr "Вставьте продукт"
+
+#~ msgid "Insert a products list"
+#~ msgstr "Вставьте список продуктов"
+
+#~ msgid "Insert a sales counter"
+#~ msgstr "Вставьте счетчик продаж"
+
+#~ msgid "Title:"
+#~ msgstr "Название:"
+
+#~ msgid "Enter the product ID:"
+#~ msgstr "Введите код продукта :"
+
+#~ msgid "Tracks"
+#~ msgstr "Дорожки"
+
+#~ msgid "Coupon code:"
+#~ msgstr "Код купона :"
+
+#~ msgid "Songs of collection:"
+#~ msgstr "Песни Коллекция:"
+
+#~ msgid "Select a Song"
+#~ msgstr "Выбор песни"
+
+#~ msgid ""
+#~ "Select a Song from the list. It is possible to select songs with status "
+#~ "\"publish\"."
+#~ msgstr ""
+#~ "Выбрать песню из списка. Это можно выбрать песни со статусом \" "
+#~ "Опубликовать \" ."
+
+#~ msgid ""
+#~ "Select an Artist from the list or enter new one. If you leave empty the "
+#~ "artists fields, then the artists is determined from songs in collection"
+#~ msgstr ""
+#~ "Выберите исполнителя из списка или введите новый. Если вы оставите пустым "
+#~ "поля художников, то художники определяется из песен в сборнике"
+
+#~ msgid "Collection Id"
+#~ msgstr "Коллекция Id"
+
+#~ msgid "Collection Title"
+#~ msgstr "Коллекция Название"
+
+#~ msgid "Songs List"
+#~ msgstr "Список песен"
+
+#~ msgid "Visits"
+#~ msgstr "Просмотров"
+
+#~ msgid "CLICK HERE"
+#~ msgstr "Кликните здесь"
+
+#~ msgid "The Cookies must be accepted to use the Add To Cart"
+#~ msgstr "Печенье должно быть принято использовать Добавить в корзину"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "Total"
+#~ msgstr "Всего"
+
+#~ msgid "Continue Shopping"
+#~ msgstr "Продолжить покупки"
+
+#~ msgid "Purchase Now"
+#~ msgstr "Купить сейчас"

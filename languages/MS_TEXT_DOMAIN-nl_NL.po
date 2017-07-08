@@ -1,0 +1,1331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MS_TEXT_DOMAIN\n"
+"POT-Creation-Date: 2017-05-01 21:02+0200\n"
+"PO-Revision-Date: 2017-05-01 21:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: CodePeople\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ms-addons/affiliateroyale.addon.php:72
+msgid "Affiliate Royale Integration"
+msgstr ""
+
+#: ../ms-addons/affiliateroyale.addon.php:74
+msgid ""
+"If the Affiliate Royale plugin is installed on the website, and you want "
+"integrate it with the Music Store, tick the checkbox:"
+msgstr ""
+
+#: ../ms-core/ms-download.php:183
+msgid "The store is processing the purchase. You will be redirected in"
+msgstr "De winkel is de verwerking van de aankoop. U wordt doorgestuurd in"
+
+#: ../ms-core/ms-download.php:197
+msgid "Please, try again in 3 minutes."
+msgstr ""
+
+#: ../ms-core/ms-download.php:235
+msgid "The purchase ID is incorrect, please, try again in 3 minutes."
+msgstr ""
+
+#: ../ms-core/ms-download.php:314
+msgid "The product is no longer available in our Music Store"
+msgstr "Het product is niet langer beschikbaar in onze Music Store"
+
+#: ../ms-core/ms-download.php:319
+msgid "The product is not valid"
+msgstr "Het product is niet geldig"
+
+#: ../ms-core/ms-download.php:338
+msgid "The list of purchased products is empty"
+msgstr "De lijst van gekochte producten is leeg"
+
+#: ../ms-core/ms-ipn.php:78
+msgid "License for regular purchases"
+msgstr ""
+
+#: ../ms-core/ms-song.php:135
+msgid "Album(s)"
+msgstr "Album ( s)"
+
+#: ../ms-core/ms-song.php:136
+msgid "Genre(s)"
+msgstr "Genre ( s)"
+
+#: ../ms-core/ms-song.php:137
+msgid "Duration"
+msgstr "Duur"
+
+#: ../ms-core/ms-song.php:138
+msgid "Year"
+msgstr "Jaar"
+
+#: ../ms-core/ms-song.php:139
+msgid "Description"
+msgstr "Beschrijving"
+
+#: ../ms-core/ms-song.php:140
+msgid "More Info"
+msgstr "Meer Info"
+
+#: ../ms-core/ms-song.php:141
+msgid "Go to the store page"
+msgstr "Ga naar de winkel pagina"
+
+#: ../ms-core/ms-song.php:142
+msgid "Get back"
+msgstr "Get back"
+
+#: ../ms-core/ms-song.php:143
+msgid "popularity"
+msgstr "populariteit"
+
+#: ../ms-core/ms-song.php:144 ../music-store.php:2293
+msgid "Price"
+msgstr "Prijs"
+
+#: ../ms-core/ms-song.php:200
+#, fuzzy
+#| msgid "Download link"
+msgid "Download"
+msgstr "Download link"
+
+#: ../ms-core/ms-song.php:200
+msgid "License"
+msgstr ""
+
+#: ../ms-core/ms-song.php:295
+msgid "Sales price:"
+msgstr "Vraagprijs:"
+
+#: ../ms-core/ms-song.php:309
+#, fuzzy
+#| msgid "Sales price:"
+msgid "Sales price (Exclusively):"
+msgstr "Vraagprijs:"
+
+#: ../ms-core/ms-song.php:319
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:325
+msgid "Sell as a single:"
+msgstr "Verkoop als één :"
+
+#: ../ms-core/ms-song.php:333
+msgid "Audio file for sale:"
+msgstr "Audio bestand te koop :"
+
+#: ../ms-core/ms-song.php:336 ../ms-core/ms-song.php:344
+#: ../ms-core/ms-song.php:407
+msgid "File path/URL"
+msgstr "Bestand pad / URL"
+
+#: ../ms-core/ms-song.php:336 ../ms-core/ms-song.php:344
+#: ../ms-core/ms-song.php:407
+msgid "Upload a file"
+msgstr "Een bestand uploaden"
+
+#: ../ms-core/ms-song.php:341
+msgid "Audio file for demo:"
+msgstr "Audio bestand voor demo :"
+
+#: ../ms-core/ms-song.php:346
+msgid "Protect the file"
+msgstr "Bescherm het bestand"
+
+#: ../ms-core/ms-song.php:346
+msgid ""
+"The protection of audio files is only available for commercial version of "
+"plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:347
+msgid ""
+"For MIDI files, the protection option is not available, the audio file would "
+"be played completely."
+msgstr ""
+
+#: ../ms-core/ms-song.php:352
+msgid "Artist:"
+msgstr "Artist :"
+
+#: ../ms-core/ms-song.php:362
+msgid "Select an Artist"
+msgstr "Kies een Artist"
+
+#: ../ms-core/ms-song.php:370
+msgid "Enter a new artist"
+msgstr "Voer een nieuwe artiest"
+
+#: ../ms-core/ms-song.php:371
+msgid "Add artist"
+msgstr "Artist toevoegen"
+
+#: ../ms-core/ms-song.php:372
+msgid "Select an Artist from the list or enter new one"
+msgstr "Kies een kunstenaar uit de lijst of voer nieuwe"
+
+#: ../ms-core/ms-song.php:378
+msgid "Album including the song:"
+msgstr "Album waaronder het lied :"
+
+#: ../ms-core/ms-song.php:387
+msgid "Select an Album"
+msgstr "Kies een album"
+
+#: ../ms-core/ms-song.php:396
+msgid "Enter a new album"
+msgstr "Voer een nieuw album"
+
+#: ../ms-core/ms-song.php:397
+msgid "Add album"
+msgstr "Album toevoegen"
+
+#: ../ms-core/ms-song.php:398
+msgid "Select an Album from the list or enter new one"
+msgstr "Kies een album uit de lijst of voer nieuwe"
+
+#: ../ms-core/ms-song.php:404
+msgid "Cover:"
+msgstr "Cover :"
+
+#: ../ms-core/ms-song.php:412
+msgid "Duration:"
+msgstr "Duur"
+
+#: ../ms-core/ms-song.php:415
+msgid "For example 00:00"
+msgstr "Bijvoorbeeld 00:00"
+
+#: ../ms-core/ms-song.php:420
+msgid "Publication Year:"
+msgstr "Publicatie jaar :"
+
+#: ../ms-core/ms-song.php:423
+msgid "For example 1999"
+msgstr "Bijvoorbeeld 1999"
+
+#: ../ms-core/ms-song.php:428
+msgid "Additional information:"
+msgstr "Extra informatie :"
+
+#: ../ms-core/ms-song.php:431
+msgid "Page URL"
+msgstr "Pagina URL"
+
+#: ../ms-core/ms-song.php:431
+msgid "Different webpage with additional information"
+msgstr "Verschillende webpagina met extra informatie"
+
+#: ../ms-core/ms-song.php:451 ../music-store.php:1381
+msgid "The discounts are only available for commercial version of plugin"
+msgstr ""
+
+#: ../ms-core/ms-song.php:452 ../music-store.php:1383
+msgid "Scheduled Discounts"
+msgstr "Geplande Korting"
+
+#: ../ms-core/ms-song.php:455
+msgid "New price in "
+msgstr "Nieuwe prijs in"
+
+#: ../ms-core/ms-song.php:456 ../music-store.php:1389
+msgid "Valid from dd/mm/yyyy"
+msgstr "Geldig van dd / mm / yyyy"
+
+#: ../ms-core/ms-song.php:457 ../music-store.php:1390
+msgid "Valid to dd/mm/yyyy"
+msgstr "Geldig tot : dd / mm / yyyy"
+
+#: ../ms-core/ms-song.php:458 ../ms-core/ms-song.php:477
+#: ../music-store.php:1391 ../music-store.php:1414
+msgid "Promotional text"
+msgstr "Promotie tekst"
+
+#: ../ms-core/ms-song.php:459 ../music-store.php:1392
+msgid "Status"
+msgstr "Status"
+
+#: ../ms-core/ms-song.php:465
+msgid "New price (*)"
+msgstr "Nieuwe prijs ( * )"
+
+#: ../ms-core/ms-song.php:469 ../music-store.php:1406
+msgid "Valid from (dd/mm/yyyy)"
+msgstr "Geldig van ( dd / mm / yyyy )"
+
+#: ../ms-core/ms-song.php:473 ../music-store.php:1410
+msgid "Valid to (dd/mm/yyyy)"
+msgstr "Geldig tot ( dd / mm / yyyy )"
+
+#: ../ms-core/ms-song.php:480 ../music-store.php:1417
+msgid "Add/Update Discount"
+msgstr "Toevoegen / bijwerken Korting"
+
+#: ../ms-core/ms-song.php:512
+msgid "Invalid file type for selling."
+msgstr ""
+
+#: ../ms-core/ms-song.php:517
+#, fuzzy
+#| msgid "Audio file for demo:"
+msgid "Invalid file type for demo."
+msgstr "Audio bestand voor demo :"
+
+#: ../ms-core/ms-song.php:522
+msgid "Invalid file type for cover."
+msgstr ""
+
+#: ../ms-core/ms-song.php:640
+msgid "Song Id"
+msgstr "Song Id"
+
+#: ../ms-core/ms-song.php:641
+msgid "Song Name"
+msgstr "Song Name"
+
+#: ../ms-core/ms-song.php:642 ../music-store.php:756 ../music-store.php:758
+#: ../music-store.php:766 ../music-store.php:876
+msgid "Artists"
+msgstr "Kunstenaars"
+
+#: ../ms-core/ms-song.php:643 ../music-store.php:783 ../music-store.php:785
+#: ../music-store.php:793 ../music-store.php:877
+msgid "Albums"
+msgstr "Albums"
+
+#: ../ms-core/ms-song.php:644 ../music-store.php:729 ../music-store.php:731
+#: ../music-store.php:739 ../music-store.php:875
+msgid "Genres"
+msgstr "Genres"
+
+#: ../ms-core/ms-song.php:645
+msgid "Plays"
+msgstr "Plays"
+
+#: ../ms-core/ms-song.php:646
+msgid "Purchases"
+msgstr "Aankopen"
+
+#: ../ms-core/ms-song.php:647 ../music-store.php:1552 ../music-store.php:2290
+msgid "Date"
+msgstr "Datum"
+
+#: ../music-store.php:159
+msgid "Product distributed for free"
+msgstr ""
+
+#: ../music-store.php:367
+msgid "Download Links:"
+msgstr "Download Links :"
+
+#: ../music-store.php:395
+msgid "Type the email address used to purchase our products"
+msgstr "Typ het e-mailadres gebruikt om onze producten te kopen"
+
+#: ../music-store.php:453
+msgid "Song's data"
+msgstr "Lied van de gegevens"
+
+#: ../music-store.php:456
+msgid "Programming Discounts"
+msgstr "Programmeren Korting"
+
+#: ../music-store.php:476
+msgid "Help"
+msgstr ""
+
+#: ../music-store.php:478
+msgid "Request custom changes"
+msgstr "Request aangepaste veranderingen"
+
+#: ../music-store.php:480
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../music-store.php:669
+msgid "This is where you can add new song to your music store."
+msgstr "Dit is waar je nieuw nummer kunt toevoegen aan uw muziek op te slaan."
+
+#: ../music-store.php:678
+msgid "Songs"
+msgstr "Songs"
+
+#: ../music-store.php:679
+msgid "Song"
+msgstr "Song"
+
+#: ../music-store.php:680
+msgid "Add New"
+msgstr "Nieuwe"
+
+#: ../music-store.php:681
+msgid "Add New Song"
+msgstr "Add New Song"
+
+#: ../music-store.php:682
+msgid "Edit Song"
+msgstr "Edit Song"
+
+#: ../music-store.php:683
+msgid "New Song"
+msgstr "New Song"
+
+#: ../music-store.php:684
+msgid "View Song"
+msgstr "Bekijk Song"
+
+#: ../music-store.php:685
+msgid "Search Songs"
+msgstr "Zoek Songs"
+
+#: ../music-store.php:686
+msgid "No songs found"
+msgstr "Geen liedjes gevonden"
+
+#: ../music-store.php:687
+msgid "No songs found in Trash"
+msgstr "Geen liedjes gevonden in Trash"
+
+#: ../music-store.php:688
+msgid "Songs for Sale"
+msgstr "Songs for Sale"
+
+#: ../music-store.php:732
+msgid "Genre"
+msgstr "Genre"
+
+#: ../music-store.php:733
+msgid "Search Genres"
+msgstr "Zoek Genres"
+
+#: ../music-store.php:734
+msgid "All Genres"
+msgstr "Alle genres"
+
+#: ../music-store.php:735
+msgid "Edit Genre"
+msgstr "Edit Genre"
+
+#: ../music-store.php:736
+msgid "Update Genre"
+msgstr "Update Genre"
+
+#: ../music-store.php:737
+msgid "Add New Genre"
+msgstr "Nieuwe toevoegen Genre"
+
+#: ../music-store.php:738
+msgid "New Genre Name"
+msgstr "Nieuwe Genre Name"
+
+#: ../music-store.php:759
+msgid "Artist"
+msgstr "Artist"
+
+#: ../music-store.php:760
+msgid "Search Artists"
+msgstr "Zoek Kunstenaars"
+
+#: ../music-store.php:761
+msgid "All Artists"
+msgstr "All Artists"
+
+#: ../music-store.php:762
+msgid "Edit Artist"
+msgstr "Edit Artist"
+
+#: ../music-store.php:763
+msgid "Update Artist"
+msgstr "Update Artist"
+
+#: ../music-store.php:764
+msgid "Add New Artist"
+msgstr "Add New Artist"
+
+#: ../music-store.php:765
+msgid "New Artist Name"
+msgstr "New Artist Name"
+
+#: ../music-store.php:786
+msgid "Album"
+msgstr "Album"
+
+#: ../music-store.php:787
+msgid "Search Albums"
+msgstr "Zoeken Albums"
+
+#: ../music-store.php:788
+msgid "All Albums"
+msgstr "Alle albums"
+
+#: ../music-store.php:789
+msgid "Edit Album"
+msgstr "Album bewerken"
+
+#: ../music-store.php:790
+msgid "Update Album"
+msgstr "Aanpassen Album"
+
+#: ../music-store.php:791
+msgid "Add New Album"
+msgstr "Nieuw Album"
+
+#: ../music-store.php:792
+msgid "New Album Name"
+msgstr "Nieuw Album Name"
+
+#: ../music-store.php:875
+msgid "Set Genres"
+msgstr "Set Genres"
+
+#: ../music-store.php:876
+msgid "Set Artists"
+msgstr "Set Kunstenaars"
+
+#: ../music-store.php:877
+msgid "Set Albums"
+msgstr "Set Albums"
+
+#: ../music-store.php:882 ../music-store.php:907
+msgid "Music Store Settings"
+msgstr "Music Store -instellingen"
+
+#: ../music-store.php:882
+msgid "Store Settings"
+msgstr "Store -instellingen"
+
+#: ../music-store.php:885
+msgid "Music Store Sales Report"
+msgstr "Music Store Sales Report"
+
+#: ../music-store.php:885 ../music-store.php:907
+msgid "Sales Report"
+msgstr "Sales Report"
+
+#: ../music-store.php:888 ../music-store.php:907
+#, fuzzy
+#| msgid "Songs for Sale"
+msgid "Songs Importer"
+msgstr "Songs for Sale"
+
+#: ../music-store.php:891
+msgid "Online Help"
+msgstr ""
+
+#: ../music-store.php:907
+msgid "Music Store Songs"
+msgstr "Music Store Songs"
+
+#: ../music-store.php:907
+msgid "Music Store Collections"
+msgstr "Music Store Collecties"
+
+#: ../music-store.php:1045
+msgid "Settings Updated"
+msgstr "Instellingen bijgewerkt"
+
+#: ../music-store.php:1069
+msgid "Store page config"
+msgstr "Store pagina config"
+
+#: ../music-store.php:1073
+msgid "URL of store page"
+msgstr "URL van de winkel pagina"
+
+#: ../music-store.php:1077
+msgid "Set the URL of page where the music store was inserted"
+msgstr "Stel de URL van de pagina waar de muziekwinkel werd geplaatst"
+
+#: ../music-store.php:1081
+msgid "Allow searching by taxonomies"
+msgstr ""
+
+#: ../music-store.php:1087
+#, fuzzy
+#| msgid "Allow to filter by type"
+msgid "Allow filtering by type"
+msgstr "Toestaan ​​om te filteren op het type"
+
+#: ../music-store.php:1090
+msgid ""
+"The option is not available because the free version allows to create only "
+"songs"
+msgstr ""
+
+#: ../music-store.php:1094
+#, fuzzy
+#| msgid "Allow to filter by genre"
+msgid "Allow filtering by genre"
+msgstr "Toestaan ​​om te filteren op genre"
+
+#: ../music-store.php:1098
+#, fuzzy
+#| msgid "Allow to filter by artist"
+msgid "Allow filtering by artist"
+msgstr "Toestaan ​​om te filteren op artiest"
+
+#: ../music-store.php:1102
+#, fuzzy
+#| msgid "Allow to filter by album"
+msgid "Allow filtering by album"
+msgstr "Sta op te filteren album"
+
+#: ../music-store.php:1106
+msgid "Allow multiple pages"
+msgstr "Sta meerdere pagina's"
+
+#: ../music-store.php:1110
+msgid "Items per page"
+msgstr "Items per pagina"
+
+#: ../music-store.php:1114
+msgid "Use friendly URLs on products"
+msgstr ""
+
+#: ../music-store.php:1118
+msgid "Store layout"
+msgstr "Store lay-out"
+
+#: ../music-store.php:1121
+msgid "Default layout"
+msgstr "Standaard lay-out"
+
+#: ../music-store.php:1140
+msgid "Player style"
+msgstr "Speler stijl"
+
+#: ../music-store.php:1145
+msgid ""
+"The free version of the plugin includes only the classic design for the "
+"music player"
+msgstr ""
+
+#: ../music-store.php:1158
+msgid ""
+"For MIDI audio files only the play/pause button will be displayed on players."
+msgstr ""
+
+#: ../music-store.php:1162
+#, fuzzy
+#| msgid "Plays"
+msgid "Play all"
+msgstr "Plays"
+
+#: ../music-store.php:1164
+msgid "Play all songs in the webpage, one after the other"
+msgstr ""
+
+#: ../music-store.php:1168
+msgid "Percent of audio used for protected playbacks"
+msgstr "Percentage van audio gebruikt voor beveiligde playback"
+
+#: ../music-store.php:1171
+#, fuzzy
+#| msgid ""
+#| "To prevent unauthorized copying of audio files, the files will be "
+#| "partially accessible."
+msgid ""
+"To prevent unauthorized copying of audio files, the files will be partially "
+"accessible"
+msgstr ""
+"Om ongeautoriseerd kopiëren van audio -bestanden te voorkomen , worden de "
+"bestanden zijn gedeeltelijk toegankelijk ."
+
+#: ../music-store.php:1173
+msgid ""
+"The commercial version of plugin generates a truncated version of the audio "
+"file for selling to be used as demo"
+msgstr ""
+
+#: ../music-store.php:1179
+msgid "Explain text for protected playbacks"
+msgstr "Tekst Leg voor beschermde playback"
+
+#: ../music-store.php:1182
+#, fuzzy
+#| msgid ""
+#| "The text will be shown below of the music player when secure playback is "
+#| "checked"
+msgid ""
+"The text will be shown below of the music player when secure playback is "
+"checked."
+msgstr ""
+"De tekst zal hieronder van de muziekspeler worden weergegeven als beveiligde "
+"weergave wordt gecontroleerd"
+
+#: ../music-store.php:1185
+msgid ""
+"The secure playback is available only in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1191
+msgid "Share in social networks"
+msgstr "Aandeel in sociale netwerken"
+
+#: ../music-store.php:1194
+msgid ""
+"The option enables the buttons for share the pages of songs and collections "
+"in social networks"
+msgstr ""
+"De optie kan de knoppen voor het aandeel van de pagina's van de nummers en "
+"collecties in sociale netwerken"
+
+#: ../music-store.php:1199
+msgid "Facebook app id for sharing in Facebook"
+msgstr ""
+
+#: ../music-store.php:1202
+msgid ""
+"Click the link to generate the Facebook App and get its ID: <a target="
+"\"_blank\" href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a>"
+msgstr ""
+
+#: ../music-store.php:1212
+msgid "Paypal Payment Configuration"
+msgstr "Betaling van Paypal Configuration"
+
+#: ../music-store.php:1217
+msgid "Enable Paypal Payments?"
+msgstr "Enable Paypal betalingen ?"
+
+#: ../music-store.php:1222
+msgid "Use Paypal Sandbox"
+msgstr ""
+
+#: ../music-store.php:1227
+msgid "Paypal email"
+msgstr "Paypal e-mail"
+
+#: ../music-store.php:1239 ../music-store.php:1552
+msgid "Currency"
+msgstr "Valuta"
+
+#: ../music-store.php:1244
+msgid "Currency Symbol"
+msgstr "Valutasymbool"
+
+#: ../music-store.php:1249
+msgid "Paypal language"
+msgstr "Paypal taal"
+
+#: ../music-store.php:1254
+msgid "Paypal button"
+msgstr ""
+
+#: ../music-store.php:1259
+msgid "or use a shopping cart"
+msgstr "of gebruik een winkelwagentje"
+
+#: ../music-store.php:1264 ../music-store.php:1270
+msgid "The shopping cart is available only in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1269
+msgid "Hide the shopping cart icon from the store and products pages?"
+msgstr ""
+
+#: ../music-store.php:1274
+msgid "Pay what you want"
+msgstr ""
+
+#: ../music-store.php:1275
+msgid ""
+"The prices of products are hidden in the public webpage and in their places "
+"are displayed input boxes to let the buyers pay the amount they consider "
+"adequate. If the \"Pay what you want\" option is enabled then the exclusive "
+"prices are not taken into account. The amounts entered by the buyers are "
+"compared with the base price of the products and if the values are under the "
+"base prices then the Music Store displays the text entered in the \"price "
+"under minimum\" message."
+msgstr ""
+
+#: ../music-store.php:1275 ../music-store.php:1280 ../music-store.php:1285
+msgid ""
+"The option \"Pay what you want\" is available only in the commercial version "
+"of plugin"
+msgstr ""
+
+#: ../music-store.php:1279
+msgid "Label of price box"
+msgstr ""
+
+#: ../music-store.php:1280
+msgid ""
+"Text to display above the price box if the \"Pay what you want\" option is "
+"ticked."
+msgstr ""
+
+#: ../music-store.php:1284
+msgid "Price under minimum message"
+msgstr ""
+
+#: ../music-store.php:1285
+msgid ""
+"Text to display if the \"Pay what you want\" option is ticked, and the "
+"amount entered by the buyer is under the base price defined in the product."
+msgstr ""
+
+#: ../music-store.php:1289 ../music-store.php:1294
+msgid "Download link valid for"
+msgstr "Download koppeling geldig voor"
+
+#: ../music-store.php:1290 ../music-store.php:1295
+msgid "day(s)"
+msgstr "dag (en )"
+
+#: ../music-store.php:1299
+msgid "Number of downloads allowed by purchase"
+msgstr "Aantal downloads toegestaan ​​door aankoop"
+
+#: ../music-store.php:1304
+msgid "Increase the download page security"
+msgstr "Verhoog de ​​downloadpagina veiligheid"
+
+#: ../music-store.php:1305
+msgid ""
+"The customers must enter the email address used in the product's purchasing "
+"to access to the download link. The Music Store verifies the customer's "
+"data, from the file link too."
+msgstr ""
+"De klanten moeten het e-mailadres gebruikt in de aankoop van het product om "
+"toegang te krijgen tot de download-link in te voeren . De Music Store "
+"controleert de gegevens van de klant , uit het bestand koppeling ook."
+
+#: ../music-store.php:1308
+msgid "Pack all purchased audio files as a single ZIP file"
+msgstr "Pak alle gekochte audiobestanden als een ZIP- bestand"
+
+#: ../music-store.php:1310
+msgid ""
+"Downloading all purchased products, packaged in a same zipped file, is only "
+"available in the commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1313
+msgid ""
+"Your server can't create Zipped files dynamically. Please, contact to your "
+"hosting provider for enable ZipArchive in the PHP script"
+msgstr ""
+"De server kan niet gezipte bestanden dynamisch te maken. Neem contact op met "
+"uw hosting provider voor staat ZipArchive in het PHP-script"
+
+#: ../music-store.php:1341
+msgid "Restrict the access to registered users only"
+msgstr ""
+
+#: ../music-store.php:1345
+msgid "Display the free download links only for registered users"
+msgstr ""
+
+#: ../music-store.php:1347
+msgid ""
+"Include the \"Buy Now\" or \"Shopping Cart\" buttons only for registered "
+"users"
+msgstr ""
+
+#: ../music-store.php:1353
+msgid "Licenses"
+msgstr ""
+
+#: ../music-store.php:1356
+msgid ""
+"Enter the URL to the webpage, or file, with the license for products "
+"downloaded for free."
+msgstr ""
+
+#: ../music-store.php:1358
+msgid ""
+"Enter the URL to the webpage, or file, with the license for regular "
+"purchases."
+msgstr ""
+
+#: ../music-store.php:1360
+msgid ""
+"Enter the URL to the webpage, or file, with the license for exclusive "
+"purchases."
+msgstr ""
+
+#: ../music-store.php:1362
+msgid ""
+"The exclusive sales are available only in the commercial version of the "
+"plugin, similar to the license"
+msgstr ""
+
+#: ../music-store.php:1365
+#, fuzzy
+#| msgid "Notes"
+msgid "Note:"
+msgstr "Notes"
+
+#: ../music-store.php:1368
+msgid ""
+"The links to the corresponding licenses are sent to the buyers in the "
+"notification emails, and in the case of license for free downloads, are "
+"inserted beside the download links."
+msgstr ""
+
+#: ../music-store.php:1379
+msgid "Discount Settings"
+msgstr "Korting Settings"
+
+#: ../music-store.php:1382
+msgid "Display discount promotions in the music store page"
+msgstr "Weergave kortingsacties in de muziekwinkel pagina"
+
+#: ../music-store.php:1387
+msgid "Percent of discount"
+msgstr "Het percentage van de korting"
+
+#: ../music-store.php:1388
+msgid "In Sales over than ... "
+msgstr "In De omzet over dan ..."
+
+#: ../music-store.php:1398
+msgid "Percent of discount (*)"
+msgstr "Het percentage van de korting ( * )"
+
+#: ../music-store.php:1402
+msgid "Valid for sales over than (*)"
+msgstr "Geldig voor verkoop over dan ( * )"
+
+#: ../music-store.php:1424
+msgid "Notification Settings"
+msgstr "Notification Settings"
+
+#: ../music-store.php:1429
+msgid "Notification \"from\" email"
+msgstr "Kennisgeving \" uit \" e-mail"
+
+#: ../music-store.php:1434
+msgid "Send notification to email"
+msgstr "Stuur bericht aan e-mail"
+
+#: ../music-store.php:1439
+msgid "Email subject confirmation to user"
+msgstr "E-mail onderwerp bevestiging aan de gebruiker"
+
+#: ../music-store.php:1444
+msgid "Email confirmation to user"
+msgstr "E-mail een bevestiging van de gebruiker"
+
+#: ../music-store.php:1449
+msgid "Email subject notification to admin"
+msgstr "Kennisgeving Email onderworpen aan admin"
+
+#: ../music-store.php:1454
+msgid "Email notification to admin"
+msgstr "E-mail notificatie aan admin"
+
+#: ../music-store.php:1464
+msgid "Update Settings"
+msgstr "Instellingen bijwerken"
+
+#: ../music-store.php:1486
+msgid "PayPal data"
+msgstr "PayPal- gegevens"
+
+#: ../music-store.php:1552
+msgid "Product"
+msgstr "Product"
+
+#: ../music-store.php:1552
+msgid "Buyer"
+msgstr "Koper"
+
+#: ../music-store.php:1552
+msgid "Amount"
+msgstr "Bedrag"
+
+#: ../music-store.php:1552
+msgid "Download link"
+msgstr "Download link"
+
+#: ../music-store.php:1616
+msgid "Filter the sales reports"
+msgstr "Filter de verkoop rapporten"
+
+#: ../music-store.php:1619
+msgid "Filter by date"
+msgstr "Filter op datum"
+
+#: ../music-store.php:1622
+msgid "January"
+msgstr "Januari"
+
+#: ../music-store.php:1623
+msgid "February"
+msgstr "Februari"
+
+#: ../music-store.php:1624
+msgid "March"
+msgstr "Maart"
+
+#: ../music-store.php:1625
+msgid "April"
+msgstr "April"
+
+#: ../music-store.php:1626
+msgid "May"
+msgstr "Mei"
+
+#: ../music-store.php:1627
+msgid "June"
+msgstr "Juni"
+
+#: ../music-store.php:1628
+msgid "July"
+msgstr "Juli"
+
+#: ../music-store.php:1629
+msgid "August"
+msgstr "August"
+
+#: ../music-store.php:1630
+msgid "September"
+msgstr "September"
+
+#: ../music-store.php:1631
+msgid "October"
+msgstr "Oktober"
+
+#: ../music-store.php:1632
+msgid "November"
+msgstr "November"
+
+#: ../music-store.php:1633
+msgid "December"
+msgstr "December"
+
+#: ../music-store.php:1636
+msgid "Buyer: "
+msgstr "Koper:"
+
+#: ../music-store.php:1637
+msgid "From: "
+msgstr "Van :"
+
+#: ../music-store.php:1650
+msgid "To: "
+msgstr "Aan:"
+
+#: ../music-store.php:1662
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../music-store.php:1666
+msgid "Grouping the sales"
+msgstr "Groeperen de verkoop"
+
+#: ../music-store.php:1667
+msgid "By: "
+msgstr "Door:"
+
+#: ../music-store.php:1678
+msgid "Display"
+msgstr "Display"
+
+#: ../music-store.php:1679
+msgid "Sales"
+msgstr "Verkoop"
+
+#: ../music-store.php:1680
+msgid "Amount of sales"
+msgstr "Bedrag van de omzet"
+
+#: ../music-store.php:1681
+msgid "Daily average"
+msgstr "Dagelijks gemiddelde"
+
+#: ../music-store.php:1688
+msgid "Store sales report"
+msgstr "Store verkoop verslag"
+
+#: ../music-store.php:1695
+msgid "Sales by country"
+msgstr "De omzet per land"
+
+#: ../music-store.php:1696
+msgid "Sales by currency"
+msgstr "De verkoop van valuta"
+
+#: ../music-store.php:1697
+msgid "Sales by product"
+msgstr "De omzet per product"
+
+#: ../music-store.php:1698
+#, fuzzy
+#| msgid "Download Here"
+msgid "Downloads free products"
+msgstr "Hier downloaden"
+
+#: ../music-store.php:1708
+msgid "Products List"
+msgstr "Producten Lijst"
+
+#: ../music-store.php:1710
+#, fuzzy
+#| msgid "All products"
+msgid "List all products"
+msgstr "Alle producten"
+
+#: ../music-store.php:1711
+#, fuzzy
+#| msgid "The list of purchased products is empty"
+msgid "List only the purchased products"
+msgstr "De lijst van gekochte producten is leeg"
+
+#: ../music-store.php:1712
+msgid "List only the products downloaded for free"
+msgstr ""
+
+#: ../music-store.php:1820
+msgid "There are not sales registered with those filter options"
+msgstr "Er zijn niet van de verkopen geregistreerd met die filter opties"
+
+#: ../music-store.php:1856
+msgid "Replace"
+msgstr ""
+
+#: ../music-store.php:1945 ../music-store.php:2340
+msgid "Insert Music Store"
+msgstr "Insert Music Store"
+
+#: ../music-store.php:1947
+msgid "Filter results by products type:"
+msgstr "Filter resultaat op producten van het type :"
+
+#: ../music-store.php:1947
+msgid "All types"
+msgstr "Alle soorten"
+
+#: ../music-store.php:1947
+msgid ""
+"Filter by product types is only available for commercial version of plugin"
+msgstr ""
+
+#: ../music-store.php:1947
+msgid "Columns:"
+msgstr "Kolommen :"
+
+#: ../music-store.php:1949
+msgid "Filter results by genre:"
+msgstr "Filter resultaat op genre :"
+
+#: ../music-store.php:1949 ../music-store.php:2253
+msgid "All genres"
+msgstr "Alle genres"
+
+#: ../music-store.php:1955
+msgid "-or- filter results by artist:"
+msgstr "-of- Filter resultaten op artiest :"
+
+#: ../music-store.php:1955 ../music-store.php:2275
+msgid "All artists"
+msgstr "Alle kunstenaars"
+
+#: ../music-store.php:1960
+msgid "-or- filter results by album:"
+msgstr "-of- Filter resultaten op album :"
+
+#: ../music-store.php:1960 ../music-store.php:2264
+msgid "All albums"
+msgstr "Alle albums"
+
+#: ../music-store.php:2183
+msgid "of"
+msgstr ""
+
+#: ../music-store.php:2249
+msgid "Filter by: "
+msgstr "Filter op:"
+
+#: ../music-store.php:2288
+msgid "Order by: "
+msgstr "Sorteer op:"
+
+#: ../music-store.php:2291
+msgid "Title"
+msgstr "Titel"
+
+#: ../music-store.php:2292
+msgid "Popularity"
+msgstr "Populariteit"
+
+#~ msgid "Collection's data"
+#~ msgstr "Data Collection"
+
+#~ msgid "Collections"
+#~ msgstr "Collecties"
+
+#~ msgid "Collection"
+#~ msgstr "Collection"
+
+#~ msgid "Add New Collection"
+#~ msgstr "Add New Collection"
+
+#~ msgid "Edit Collection"
+#~ msgstr "Collectie Edit"
+
+#~ msgid "New Collection"
+#~ msgstr "Nieuwe Collectie"
+
+#~ msgid "View Collection"
+#~ msgstr "Collectie View"
+
+#~ msgid "Search Collections"
+#~ msgstr "Zoeken Collecties"
+
+#~ msgid "No collections found"
+#~ msgstr "Geen collecties gevonden"
+
+#~ msgid "No collections found in Trash"
+#~ msgstr "Geen collecties gevonden in Trash"
+
+#~ msgid "Collections for Sale"
+#~ msgstr "Collecties te koop"
+
+#~ msgid "Paypal button for instant purchases"
+#~ msgstr "Paypal knop om direct aankopen"
+
+#~ msgid "Coupons Settings"
+#~ msgstr "Coupons Settings"
+
+#~ msgid "Coupons List"
+#~ msgstr "Coupons List"
+
+#~ msgid "Coupon"
+#~ msgstr "Coupon"
+
+#~ msgid "Coupon (*)"
+#~ msgstr "Coupon ( * )"
+
+#~ msgid "Add/Update Coupon"
+#~ msgstr "Toevoegen / bijwerken Coupon"
+
+#~ msgid "Insert a Products List"
+#~ msgstr "Steek een Producten Lijst"
+
+#~ msgid "Select the type of list:"
+#~ msgstr "Selecteer het type lijst :"
+
+#~ msgid "Enter the number of products to show:"
+#~ msgstr "Geef het aantal producten te laten zien :"
+
+#~ msgid "Enter the number of columns:"
+#~ msgstr "Geef het aantal kolommen :"
+
+#~ msgid "Insert the sales counter"
+#~ msgstr "Stop de toonbank"
+
+#~ msgid "Select the numbers design:"
+#~ msgstr "Kies het ontwerp nummers :"
+
+#~ msgid "Enter minimum length of counter:"
+#~ msgstr "Geef minimale lengte van teller:"
+
+#~ msgid "Singles"
+#~ msgstr "Singles"
+
+#~ msgid "Insert a Product"
+#~ msgstr "Steek een product"
+
+#~ msgid "Enter the Song or Collection ID:"
+#~ msgstr "Geef de Song of Collection ID :"
+
+#~ msgid "Only collections"
+#~ msgstr "Alleen collecties"
+
+#~ msgid "Only singles"
+#~ msgstr "Alleen singles"
+
+#~ msgid "items"
+#~ msgstr "artikelen"
+
+#~ msgid "Our Promotions"
+#~ msgstr "Onze Promotions"
+
+#~ msgid "Insert a product"
+#~ msgstr "Steek een product"
+
+#~ msgid "Insert a products list"
+#~ msgstr "Steek een lijst producten"
+
+#~ msgid "Insert a sales counter"
+#~ msgstr "Steek een toonbank"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Enter the product ID:"
+#~ msgstr "Voer de product- ID:"
+
+#~ msgid "Tracks"
+#~ msgstr "Tracks"
+
+#~ msgid "Coupon code:"
+#~ msgstr "Coupon code :"
+
+#~ msgid "Songs of collection:"
+#~ msgstr "Songs of inzameling :"
+
+#~ msgid "Select a Song"
+#~ msgstr "Selecteer een song"
+
+#~ msgid ""
+#~ "Select a Song from the list. It is possible to select songs with status "
+#~ "\"publish\"."
+#~ msgstr ""
+#~ "Selecteer een song uit de lijst. Het is mogelijk selecteren songs met de "
+#~ "status  \"publiceren\"."
+
+#~ msgid ""
+#~ "Select an Artist from the list or enter new one. If you leave empty the "
+#~ "artists fields, then the artists is determined from songs in collection"
+#~ msgstr ""
+#~ "Kies een kunstenaar uit de lijst of voer nieuwe. Als je weggaat leeg de "
+#~ "kunstenaars velden , dan is de kunstenaars wordt bepaald op basis van "
+#~ "nummers in de collectie"
+
+#~ msgid "Collection Id"
+#~ msgstr "Collectie Id"
+
+#~ msgid "Collection Title"
+#~ msgstr "Collection titel"
+
+#~ msgid "Songs List"
+#~ msgstr "Songs List"
+
+#~ msgid "Visits"
+#~ msgstr "Bezoeken"
+
+#~ msgid "CLICK HERE"
+#~ msgstr "KLIK HIER"
+
+#~ msgid "The Cookies must be accepted to use the Add To Cart"
+#~ msgstr "De Cookies moeten worden aanvaard voor gebruik de Add To Cart"
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "Continue Shopping"
+#~ msgstr "Doorgaan met winkelen"
+
+#~ msgid "Purchase Now"
+#~ msgstr "Nu kopen"

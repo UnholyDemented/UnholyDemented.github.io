@@ -1,0 +1,257 @@
+
+.music-store-header
+{
+background: #696969;
+background: -moz-linear-gradient(top,  #696969 1%, #000 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#696969), color-stop(100%,#000));
+background: -webkit-linear-gradient(top,  #696969 1%,#000 100%);
+background: -o-linear-gradient(top,  #696969 1%,#000 100%);
+background: -ms-linear-gradient(top,  #696969 1%,#000 100%);
+background: linear-gradient(to bottom,  #696969 1%,#000 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#696969', endColorstr='#000',GradientType=0 );
+
+padding:10px;
+display:table;
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 1) !important;
+color: #FFF;
+margin: 0;
+}
+
+.music-store-header select{
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+
+background: #454444;
+background: -moz-linear-gradient(top,  #000 0%, #696969 97%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000), color-stop(97%,#696969));
+background: -webkit-linear-gradient(top,  #000 0%,#696969 97%);
+background: -o-linear-gradient(top,  #000 0%,#696969 97%);
+background: -ms-linear-gradient(top,  #000 0%,#696969 97%);
+background: linear-gradient(to bottom,  #000 0%,#696969 97%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000', endColorstr='#696969',GradientType=0 );
+background-color:#454444;
+-webkit-box-shadow: 0px 2px 1px 0px rgba(255, 255, 255, 0.2);
+-moz-box-shadow:    0px 2px 1px 0px rgba(255, 255, 255, 0.2);
+box-shadow:         0px 2px 1px 0px rgba(255, 255, 255, 0.2);
+border:1px solid #000;
+color: #FFF;
+}
+
+.music-store-items{padding-top:2px;background:#2A2A2A;}
+
+.music-store-item{
+padding:30px 0;
+background:#2A2A2A;
+margin: 0px;
+width:99%;
+}
+
+.widget .music-store-item{margin-bottom:10px;}
+
+.music-store-song a,
+.music-store-collection a,
+.music-store-song a:hover,
+.music-store-collection a:hover{
+color:#FFF !important;
+}
+
+.ms-shopping-cart-wrapper,
+.music-store-song,
+.music-store-collection{
+background:#2A2A2A;
+color:#FFF;
+padding-bottom:10px;
+}
+
+.ms-shopping-cart-wrapper,
+.music-store-song .left-column,
+.music-store-song .right-column,
+.music-store-collection .left-column,
+.music-store-collection .right-column{
+padding: 15px 10px;
+}
+
+@media screen and (min-width:600px) {
+	.music-store-song .right-column, .music-store-collection .right-column {
+	width: -moz-calc(100% - 190px);
+	width: -webkit-calc(100% - 190px);
+	width: calc(100% - 190px);
+	}
+	.music-store-song .right-column.single, .music-store-collection .right-column.single {
+	width: -moz-calc(100% - 290px);
+	width: -webkit-calc(100% - 290px);
+	width: calc(100% - 290px);
+	}
+}
+
+@media screen and (max-width:600px) {
+	.music-store-song .right-column, .music-store-collection .right-column,
+	.music-store-song .right-column.single, .music-store-collection .right-column.single {
+		padding: 10px;
+	}
+}
+
+.song-title,
+.collection-title{
+font-weight: normal !important;
+line-height: 30px;
+}
+
+.song-title a,
+.collection-title a{
+color: #FFF;
+}
+
+.music-store-item .song-cover,
+.music-store-item .collection-cover{
+width:100% !important;
+margin:10px auto;
+}
+
+#ms-shopping-cart-thumbnail,
+.music-store-song .song-cover.single,
+.music-store-collection .collection-cover.single{
+	border: 2px solid #D0379B;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+#ms-shopping-cart-thumbnail,
+.song-cover,
+.collection-cover{
+position:relative;
+}
+
+.music-store-item .song-data,
+.music-store-item .collection-data{
+width:90%;
+margin:0 auto;
+}
+
+.song-cover img,
+.collection-cover img{
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+border-top: 0;
+border-bottom: 0;
+border-left: 0;
+border-right: 0;
+}
+
+.ms-shopping-cart-text{color:#FFF;}
+.ms-shopping-cart{background:url(../../paypal_buttons/shopping_cart/button_gw.png) no-repeat 0 0;}
+
+.music-store-tabs-container{ padding:0 20px; }
+
+.ms-inner-shadow{ background: url( inner-shadow.png ) 0 0 repeat-x; z-index:9999;position:absolute;height:19px;width:100%;bottom:0;left:0;}
+
+.music-store-song input[ type=image ],
+.music-store-collection input[ type=image ]{ border:0; }
+
+.music-store-song .arrow,
+.music-store-collection .arrow{ color: #D0379B !important; }
+
+.star-active{ display:inline-block; height: 4px; width: 20px; background: #D0379B;margin-right:2px;}
+.star-inactive{ display:inline-block; height: 4px; width: 20px; background:#999;margin-right:2px;}
+
+.music-store-song input[ type=image ],
+.music-store-collection input[ type=image ]{ padding: 0; margin: 0; }
+
+.music-store-pagination{ background: #2A2A2A;margin-top:2px; color:#D0379B}
+.music-store-pagination .page-selected{ font-weight:bold; line-height:1.5em; }
+.music-store-pagination .page-link{ color:#FFF; text-decoration:none; }
+
+.song-price,
+.collection-price,
+.music-store-song .song-price.single,
+.music-store-collection .collection-price.single{
+font-size:1em !important;
+color:#D0379B !important;
+background: transparent !important;
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 1) !important;
+padding:0;
+}
+
+.ms-shopping-cart-list
+.ms-shopping-cart-resume,
+.ms-shopping-cart-resume table{
+margin:0;
+}
+
+.ms-shopping-cart-list .button,
+.ms-shopping-cart-list .button:hover,
+.ms-shopping-cart-resume .button,
+.ms-shopping-cart-resume .button:hover
+{
+color: #FFF;
+font-weight:bold;
+font-size:0.8em;
+background:#D0379B !important;
+padding: 5px 20px !important;
+display: inline-block !important;
+border-radius: 0;
+border: 0;
+text-decoration: none;
+}
+
+.ms-shopping-cart-resume input[ type=text ]{margin-left:10px;}
+.price-box .song-price.invalid,
+.price-box .collection-price.invalid{ display:none; }
+
+/** TABS IN SINGLE PAGES **/
+
+.music-store-tabs:before,
+.music-store-tabs li:before,
+.music-store-tabs li:after,
+.music-store-tabs li.active-tab:before,
+.music-store-tabs li.active-tab:after{display:none;}
+
+.music-store-tabs li{
+overflow-x:visible !important;
+overflow-y:visible !important;
+background: transparent;
+border: 0;
+border-radius: 0;
+box-shadow: none;
+display: inline-block;
+margin: 0;
+padding: 0 1em !important;
+position: relative;
+z-index: 0;
+cursor:pointer;
+font-weight: normal;
+color: #FFF;
+}
+
+.music-store-tabs li.active-tab {
+background: #D0379B;
+color: #FFF;
+}
+
+.music-store-tabs-container{
+display:none;
+}
+.music-store-tabs-container.active-tab{
+display:block;
+}
+
+/** TRACKS **/
+tr.track{ border:0 !important; }
+.track-price{ color:#D0379B !important; font-size:1.2em;}
+
+
+/** SHOPPING CART **/
+.ms-shopping-cart-list td{ padding:5px;}
+#ms-shopping-cart-thumbnail {margin:0;}
+
+.ms-shopping-cart-list td{ vertical-align:middle; }
+.ms-shopping-cart-list td:nth-child(3){color: #D0379B; font-size:1em;}
+.ms-shopping-cart-list td:last-child{text-align:right;}
+
+.music-store-filtering-result{ border:0; }
+
+@media screen and (max-width:600px) {
+	.music-store-item {margin-bottom:0px;padding:10px 0;}
+}

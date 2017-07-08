@@ -1,0 +1,65 @@
+<div class="music-store-song">
+	<!-- SONG COVER -->
+	<tpl ifset="song.cover">
+	<div class="left-column">
+		<div class="song-cover">
+			<a href="{song.link}">
+			<img src="{song.cover}">
+			</a>
+		</div>
+	</div>
+	</tpl ifset="song.cover">
+	
+	<div class="right-column">
+		<!-- SONG DEMO -->
+        <tpl ifset="song.demo">
+        <div class="ms-player multiple">
+        {song.demo}	
+        </div>
+        </tpl ifset="song.demo">
+    
+        <!-- SONG TITLE -->
+		<tpl ifset="song.title">
+		<div class="song-title">
+			<a href="{song.link}">
+			{song.title}
+			</a>
+		</div>
+		</tpl ifset="song.title">
+		
+		<!-- SONG ARTIST -->
+		<tpl ifset="song.has_artists">
+			<div class="song-artist">
+				<ul>
+				<tpl loop="artists">
+					<li><span class="arrow">›</span>{artists.data}</li>
+				</tpl loop="artists">	
+				</ul>
+			</div>
+		</tpl ifset="song.has_artists">
+		
+		<!-- SONG POPULARITY -->
+		<tpl ifset="song.popularity">
+			<div class="song-popularity">
+			<span class="label">{song.popularity_label}: </span> {song.popularity}
+			</div>
+		</tpl ifset="song.popularity">
+		
+		<!-- SONG PRICE -->
+		<tpl ifset="song.price">
+			<div>
+				<div class="song-price">
+				{song.price}
+				</div>
+			</div>
+		</tpl ifset="song.price">
+		
+		<!-- SONG SALES BUTTONS -->
+		<tpl ifset="song.salesbutton">
+			<div class="song-payment-buttons">
+			{song.salesbutton}
+			</div>
+		</tpl ifset="song.salesbutton">
+	</div>	
+    <div style="clear:both;"></div>
+</div>
